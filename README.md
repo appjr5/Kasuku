@@ -1,4 +1,4 @@
-# Kasuku (working title, Swahili-first)
+# Kasuku (Swahili-first)
 
 Mwalimu Neema teaches Spanish, Japanese, Mandarin and Russian **through Swahili**: kind to kids,
 strict about pronunciation. This drop is the full app: Swahili curriculum built from the four Foundations Guides
