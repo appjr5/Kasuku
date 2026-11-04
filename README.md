@@ -1,6 +1,6 @@
 # Kasuku (working title, Swahili-first)
 
-Mwalimu Neema (placeholder name, change `Coach.name`) teaches Spanish, Japanese, Mandarin and Russian **through Swahili**: kind to kids,
+Mwalimu Neema teaches Spanish, Japanese, Mandarin and Russian **through Swahili**: kind to kids,
 strict about pronunciation. This drop is the full app: Swahili curriculum built from the four Foundations Guides
 (23 lessons incl. 6 Russian), flashcards (spaced repetition), speaking + writing drills, Mandarin Tone Gym,
 unit quizzes with stars, a pre-lesson **memory check**, daily review, stories and songs.
@@ -12,6 +12,9 @@ The old Core Lab is kept for developers: Settings -> *Maabara ya majaribio*.
 flutter run --release # on your phone (debug builds are far too slow for Whisper)
 flutter build apk --release --split-per-abi   # the APK: build/app/outputs/flutter-apk/app-arm64-v8a-release.apk
 ```
+
+**. Flutter version 3.47.9
+. Dart version 3.13.7**
 
 ## The brain, two layers, no switches
 | Layer | What | When |
