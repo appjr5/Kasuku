@@ -1,0 +1,61 @@
+{
+ "empty": [
+  "Sikusikia neno lolote. Sema kwa sauti zaidi, kisha jaribu tena.",
+  "Kimya? Mwalimu hasikii kimya! Sema \"{target}\" kwa sauti."
+ ],
+ "short": [
+  "Umeacha sehemu ya neno. Nilitaka \"{target}\", lakini nilisikia \"{heard}\" tu. Sema neno zima, polepole.",
+  "Haijakamilika! Maliza neno hadi mwisho."
+ ],
+ "long": [
+  "Umeongeza sauti zisizo za lazima. Nilitaka \"{target}\" tu, siyo \"{heard}\". Sema kwa ufupi.",
+  "Maneno mengi mno! Sema \"{target}\" tu, kisha unyamaze."
+ ],
+ "wrong": [
+  "Nilisikia \"{heard}\", lakini nilitaka \"{target}\". Sikiliza sauti ya kwanza kwa makini, kisha ujaribu tena.",
+  "Hapana, hiyo ni sauti nyingine. Sikiliza \"{target}\" polepole mara mbili, kisha urudie."
+ ],
+ "close": [
+  "Umekaribia! Kosa dogo tu kati ya \"{heard}\" na \"{target}\". Zingatia sauti ya mwisho.",
+  "Karibu sana, lakini mwalimu mkali hakubali karibu. Tena, na sauti zote wazi!"
+ ],
+ "lang": {
+  "es": {
+   "wrong": [
+    "Kihispania kinasomwa kama kinavyoandikwa. Vokali a, e, i, o, u ni fupi na wazi, kama za Kiswahili chako. Zitumie!",
+    "Herufi h haisomwi kamwe. Na rr inavuma kwa ulimi, r moja ni kugonga kwa haraka."
+   ],
+   "close": [
+    "Vokali za Kihispania ni sawa na za Kiswahili. Usizifanye ndefu wala nzito.",
+    "Angalia r: r moja ni mgongo mwepesi wa ulimi, rr ni mvumo."
+   ]
+  },
+  "ja": {
+   "wrong": [
+    "Kijapani: kila silabi ina urefu sawa. Usiivute wala kuiimba. Vokali a, i, u, e, o ni safi kama za Kiswahili.",
+    "Tamka silabi moja moja, kwa mdundo sawa, bila mkazo."
+   ],
+   "close": [
+    "Karibu! Kwa Kijapani, silabi zote ni sawa kwa urefu. Angalia vokali ndefu, ni muhimu."
+   ]
+  },
+  "zh": {
+   "wrong": [
+    "Kichina: toni ni sehemu ya neno. Toni ikikosewa, neno hubadilika kabisa. Sikiliza toni kwanza, kisha useme.",
+    "Fuata umbo la sauti: juu na tambarare, kupanda, kushuka kisha kupanda, au kushuka kwa kasi."
+   ],
+   "close": [
+    "Karibu! Lakini angalia toni. Toni moja ikikosewa, maana inabadilika."
+   ]
+  },
+  "ru": {
+   "wrong": [
+    "Kirusi: silabi yenye mkazo hutamkwa kwa nguvu na kwa urefu, zisizo na mkazo ni fupi na dhaifu. Tafuta mkazo kwanza.",
+    "Herufi ы hutamkwa kwa kuvuta ulimi nyuma. Usiibadilishe kuwa i."
+   ],
+   "close": [
+    "Karibu! Angalia mkazo wa neno: silabi isiyo na mkazo hupungua nguvu, hasa o inayosikika kama a."
+   ]
+  }
+ }
+}

@@ -1,0 +1,29 @@
+name: kasuku
+description: Mwalimu Neema - kid-friendly but strict, speaking-first language tutor taught through Swahili.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+  shared_preferences: ^2.2.3
+  path_provider: ^2.1.3
+  flutter_tts: ^4.0.2
+  record: ^6.0.0
+  whisper_flutter_new: ^1.0.0              # ears: whisper.cpp tiny (Hugging Face ggerganov/whisper.cpp)
+  android_intent_plus: ^5.0.0              # opens Android's voice-data installer
+  google_mlkit_digital_ink_recognition: '>=0.13.0 <1.0.0'
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/content/

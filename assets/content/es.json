@@ -1,0 +1,523 @@
+{
+ "code": "es",
+ "name": "Spanish",
+ "native": "Español",
+ "flag": "🇪🇸",
+ "tts": "es-ES",
+ "whisper": "es",
+ "ink": "es",
+ "color": 4293216333,
+ "units": [
+  {
+   "id": "es1",
+   "title": "Sauti na Herufi",
+   "emoji": "🔤",
+   "intro": "Kihispania karibu kinasomwa kama kinavyoandikwa. Vokali A, E, I, O, U ni fupi na wazi, kama za Kiswahili, na hazibadiliki kamwe. Ñ inasomwa 'nya' (kama 'nyama'). R moja ni mgongo mwepesi wa ulimi; rr (au r mwanzoni mwa neno) ni mvumo wa ulimi. Herufi H haisomwi kamwe.",
+   "items": [
+    {
+     "t": "hola",
+     "r": "OH-lah",
+     "m": "hello",
+     "ms": "habari",
+     "n": "H haisomwi!"
+    },
+    {
+     "t": "niño",
+     "r": "NEE-nyo",
+     "m": "boy / child",
+     "ms": "mtoto",
+     "n": "ñ inasomwa 'nya', kama 'nyama'"
+    },
+    {
+     "t": "pero",
+     "r": "PEH-ro",
+     "m": "but",
+     "ms": "lakini",
+     "n": "r moja = mgongo mwepesi wa ulimi"
+    },
+    {
+     "t": "perro",
+     "r": "PEH-rro",
+     "m": "dog",
+     "ms": "mbwa",
+     "n": "rr = mvumo wa ulimi. Linganisha na 'pero'!"
+    },
+    {
+     "t": "uno",
+     "r": "OO-no",
+     "m": "one",
+     "ms": "moja"
+    },
+    {
+     "t": "agua",
+     "r": "AH-gwa",
+     "m": "water",
+     "ms": "maji"
+    },
+    {
+     "t": "casa",
+     "r": "KAH-sa",
+     "m": "house",
+     "ms": "nyumba"
+    },
+    {
+     "t": "gracias",
+     "r": "GRAH-syas",
+     "m": "thank you",
+     "ms": "asante"
+    },
+    {
+     "t": "adiós",
+     "r": "ah-DYOHS",
+     "m": "goodbye",
+     "ms": "kwaheri"
+    }
+   ],
+   "drills": [
+    {
+     "q": "H inasomwaje katika 'hola'?",
+     "o": [
+      "Kama h ya Kiingereza",
+      "Haisomwi",
+      "Kama 'j'",
+      "Kama 'ch'"
+     ],
+     "a": 1,
+     "e": "H haisomwi kamwe katika Kihispania."
+    },
+    {
+     "q": "Herufi Ñ inatoa sauti gani?",
+     "o": [
+      "'nya' kama katika 'nyama'",
+      "'n' kama katika 'nani'",
+      "'ng' kama katika 'ng'ombe'",
+      "'nn' ndefu"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Neno gani linahitaji mvumo wa ulimi?",
+     "o": [
+      "pero",
+      "perro",
+      "caro",
+      "pera"
+     ],
+     "a": 1,
+     "e": "rr ni mvumo."
+    }
+   ]
+  },
+  {
+   "id": "es2",
+   "title": "Jinsia na Mwafaka",
+   "emoji": "🚹",
+   "intro": "Nomino ni za kiume (mara nyingi huishia -o) au za kike (mara nyingi huishia -a, -ción, -sión, -dad). Vibainishi na vivumishi lazima vilingane na nomino kwa jinsia na wingi. Kwa wingi, ongeza -s (au -es).",
+   "items": [
+    {
+     "t": "el libro nuevo",
+     "r": "el LEE-bro NWEH-vo",
+     "m": "the new book",
+     "ms": "kitabu kipya"
+    },
+    {
+     "t": "la casa nueva",
+     "r": "la KAH-sa NWEH-va",
+     "m": "the new house",
+     "ms": "nyumba mpya"
+    },
+    {
+     "t": "los libros nuevos",
+     "r": "los LEE-bros NWEH-vos",
+     "m": "the new books",
+     "ms": "vitabu vipya"
+    },
+    {
+     "t": "las casas nuevas",
+     "r": "las KAH-sas NWEH-vas",
+     "m": "the new houses",
+     "ms": "nyumba mpya (wingi)"
+    },
+    {
+     "t": "la canción",
+     "r": "la kan-SYOHN",
+     "m": "the song",
+     "ms": "wimbo",
+     "n": "-ción = kike"
+    },
+    {
+     "t": "la ciudad",
+     "r": "la syoo-DAHD",
+     "m": "the city",
+     "ms": "mji",
+     "n": "-dad = kike"
+    },
+    {
+     "t": "el gato negro",
+     "r": "el GAH-to NEH-gro",
+     "m": "the black cat",
+     "ms": "paka mweusi (dume)"
+    },
+    {
+     "t": "la gata negra",
+     "r": "la GAH-ta NEH-gra",
+     "m": "the black (female) cat",
+     "ms": "paka mweusi (jike)"
+    }
+   ],
+   "drills": [
+    {
+     "q": "Chagua kibainishi: ___ casa",
+     "o": [
+      "el",
+      "la",
+      "los",
+      "lo"
+     ],
+     "a": 1,
+     "e": ""
+    },
+    {
+     "q": "Wingi wa 'la casa nueva'?",
+     "o": [
+      "las casas nuevas",
+      "los casas nuevos",
+      "la casas nueva",
+      "las casa nueva"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Nomino ipi ni ya kike?",
+     "o": [
+      "la ciudad",
+      "el libro",
+      "el gato",
+      "el niño"
+     ],
+     "a": 0,
+     "e": "Nomino za -dad ni za kike."
+    }
+   ]
+  },
+  {
+   "id": "es3",
+   "title": "Vitenzi vya Wakati Uliopo",
+   "emoji": "⚙️",
+   "intro": "Vitenzi vina makundi matatu kwa kiishio cha mwisho: -AR (hablar), -ER (comer), -IR (vivir). Viishio: yo -o | tú -as/-es | él -a/-e | nosotros -amos/-emos/-imos | vosotros -áis/-éis/-ís | ellos -an/-en.",
+   "items": [
+    {
+     "t": "hablo",
+     "r": "AH-blo",
+     "m": "I speak",
+     "ms": "ninaongea"
+    },
+    {
+     "t": "hablas",
+     "r": "AH-blas",
+     "m": "you speak",
+     "ms": "unaongea"
+    },
+    {
+     "t": "hablamos",
+     "r": "ah-BLAH-mos",
+     "m": "we speak",
+     "ms": "tunaongea"
+    },
+    {
+     "t": "como",
+     "r": "KOH-mo",
+     "m": "I eat",
+     "ms": "ninakula"
+    },
+    {
+     "t": "vivimos",
+     "r": "vee-VEE-mos",
+     "m": "we live",
+     "ms": "tunaishi"
+    },
+    {
+     "t": "Yo hablo español",
+     "r": "yo AH-blo es-pa-NYOL",
+     "m": "I speak Spanish",
+     "ms": "Ninaongea Kihispania"
+    },
+    {
+     "t": "Nosotros comemos pan",
+     "r": "no-SO-tros ko-MEH-mos pan",
+     "m": "We eat bread",
+     "ms": "Tunakula mkate"
+    },
+    {
+     "t": "Ellos viven aquí",
+     "r": "EH-yos VEE-ven ah-KEE",
+     "m": "They live here",
+     "ms": "Wanaishi hapa"
+    }
+   ],
+   "drills": [
+    {
+     "q": "Yo ___ (comer)",
+     "o": [
+      "como",
+      "comes",
+      "come",
+      "comen"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Nosotros ___ (vivir)",
+     "o": [
+      "vivo",
+      "vivimos",
+      "vive",
+      "viven"
+     ],
+     "a": 1,
+     "e": ""
+    },
+    {
+     "q": "Ellos ___ (hablar)",
+     "o": [
+      "hablan",
+      "habla",
+      "hablamos",
+      "hablas"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "'vivir' ni la kundi gani?",
+     "o": [
+      "-AR",
+      "-ER",
+      "-IR",
+      "-OR"
+     ],
+     "a": 2,
+     "e": ""
+    }
+   ]
+  },
+  {
+   "id": "es4",
+   "title": "Ser na Estar, na Wakati Uliopita",
+   "emoji": "🌓",
+   "intro": "Ser = sifa za kudumu, utambulisho, asili (Soy alto). Estar = hali za muda, hisia, mahali (Estoy cansado). Wakati uliopita: Preterite = tendo lililokamilika (Comí) na Imperfect = tendo lililoendelea au la mazoea (Comía).",
+   "items": [
+    {
+     "t": "Soy alto",
+     "r": "soy AL-to",
+     "m": "I am tall",
+     "ms": "Mimi ni mrefu",
+     "n": "ser: sifa ya kudumu"
+    },
+    {
+     "t": "Estoy cansado",
+     "r": "es-TOY kan-SAH-do",
+     "m": "I am tired",
+     "ms": "Nimechoka",
+     "n": "estar: hali ya muda"
+    },
+    {
+     "t": "Soy de México",
+     "r": "soy deh MEH-hee-ko",
+     "m": "I am from Mexico",
+     "ms": "Natoka Meksiko",
+     "n": "ser: asili"
+    },
+    {
+     "t": "Estoy en casa",
+     "r": "es-TOY en KAH-sa",
+     "m": "I am at home",
+     "ms": "Niko nyumbani",
+     "n": "estar: mahali"
+    },
+    {
+     "t": "Comí una manzana",
+     "r": "ko-MEE OO-na man-SAH-na",
+     "m": "I ate an apple",
+     "ms": "Nilikula tufaha",
+     "n": "preterite: limekwisha"
+    },
+    {
+     "t": "Comía mucho",
+     "r": "ko-MEE-ah MOO-cho",
+     "m": "I used to eat a lot",
+     "ms": "Nilikuwa nakula sana",
+     "n": "imperfect: mazoea"
+    },
+    {
+     "t": "Ella es doctora",
+     "r": "EH-ya es dok-TOH-ra",
+     "m": "She is a doctor",
+     "ms": "Yeye ni daktari"
+    },
+    {
+     "t": "Ellos están felices",
+     "r": "EH-yos es-TAN feh-LEE-ses",
+     "m": "They are happy",
+     "ms": "Wana furaha"
+    }
+   ],
+   "drills": [
+    {
+     "q": "'Nimechoka' (hali ya muda): Yo ___ cansado",
+     "o": [
+      "soy",
+      "estoy",
+      "es",
+      "están"
+     ],
+     "a": 1,
+     "e": ""
+    },
+    {
+     "q": "Kitenzi gani kwa utambulisho na asili?",
+     "o": [
+      "Ser",
+      "Estar",
+      "Vyote viwili",
+      "Hakuna"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Ayer ___ pizza. (tendo limekwisha)",
+     "o": [
+      "comí",
+      "comía",
+      "como",
+      "comeré"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "De niño ___ mucho. (mazoea)",
+     "o": [
+      "comí",
+      "comía",
+      "como",
+      "comes"
+     ],
+     "a": 1,
+     "e": ""
+    }
+   ]
+  }
+ ],
+ "stories": [
+  {
+   "id": "es_s1",
+   "title": "Nyumba Yangu",
+   "emoji": "🏠",
+   "lines": [
+    {
+     "t": "Hola, soy Lola.",
+     "r": "OH-la, soy LOH-la",
+     "m": "Hi, I'm Lola.",
+     "ms": "Habari, mimi ni Lola."
+    },
+    {
+     "t": "Vivo en una casa nueva.",
+     "r": "VEE-vo en OO-na KAH-sa NWEH-va",
+     "m": "I live in a new house.",
+     "ms": "Ninaishi katika nyumba mpya."
+    },
+    {
+     "t": "En la casa hay un gato negro.",
+     "r": "en la KAH-sa ai oon GAH-to NEH-gro",
+     "m": "In the house there is a black cat.",
+     "ms": "Ndani ya nyumba kuna paka mweusi."
+    },
+    {
+     "t": "El gato come pescado.",
+     "r": "el GAH-to KOH-meh pes-KAH-do",
+     "m": "The cat eats fish.",
+     "ms": "Paka anakula samaki."
+    },
+    {
+     "t": "¡Adiós!",
+     "r": "ah-DYOHS",
+     "m": "Goodbye!",
+     "ms": "Kwaheri!"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Lola anaishi wapi?",
+     "o": [
+      "Katika nyumba mpya",
+      "Shuleni",
+      "Garini",
+      "Mtumbwi"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Paka ana rangi gani?",
+     "o": [
+      "Nyeusi",
+      "Nyeupe",
+      "Nyekundu",
+      "Buluu"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Paka anakula nini?",
+     "o": [
+      "Samaki",
+      "Mkate",
+      "Tufaha",
+      "Wali"
+     ],
+     "a": 0,
+     "e": ""
+    }
+   ]
+  }
+ ],
+ "songs": [
+  {
+   "id": "es_g1",
+   "title": "Vitenzi Vinaimba",
+   "emoji": "🎵",
+   "lines": [
+    {
+     "t": "Yo hablo, tú hablas, él habla también,",
+     "r": "yo AH-blo, too AH-blas, el AH-bla tam-BYEN",
+     "m": "I speak, you speak, he speaks too,",
+     "ms": "Mimi naongea, wewe unaongea, yeye anaongea pia,"
+    },
+    {
+     "t": "Nosotros hablamos, ellos hablan bien.",
+     "r": "no-SO-tros ah-BLAH-mos, EH-yos AH-blan byen",
+     "m": "We speak, they speak well.",
+     "ms": "Sisi tunaongea, wao wanaongea vizuri."
+    },
+    {
+     "t": "Yo como, tú comes, vivimos aquí,",
+     "r": "yo KOH-mo, too KOH-mes, vee-VEE-mos ah-KEE",
+     "m": "I eat, you eat, we live here,",
+     "ms": "Mimi nakula, wewe unakula, tunaishi hapa,"
+    },
+    {
+     "t": "¡Hablar, comer, vivir, y reír!",
+     "r": "ah-BLAR, ko-MER, vee-VEER, ee reh-EER",
+     "m": "To speak, to eat, to live, and to laugh!",
+     "ms": "Kuongea, kula, kuishi, na kucheka!"
+    }
+   ]
+  }
+ ]
+}

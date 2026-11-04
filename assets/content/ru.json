@@ -1,0 +1,906 @@
+{
+ "code": "ru",
+ "name": "Russian",
+ "native": "Русский",
+ "flag": "🇷🇺",
+ "tts": "ru-RU",
+ "whisper": "ru",
+ "ink": "ru",
+ "color": 4282285050,
+ "units": [
+  {
+   "id": "ru1",
+   "title": "Alfabeti I",
+   "emoji": "🔤",
+   "intro": "Alfabeti ya Kisirili ina herufi 33, na nyingi ni rahisi! Jifunze sauti, kisha andika kila herufi. Gusa 🔊 kuisikia, kisha ichore.",
+   "items": [
+    {
+     "t": "А а",
+     "r": "ah",
+     "m": "А",
+     "ms": "А",
+     "n": "kama 'a' ya 'baba'",
+     "s": 0,
+     "w": "а"
+    },
+    {
+     "t": "Б б",
+     "r": "b",
+     "m": "Б",
+     "ms": "Б",
+     "n": "kama 'b' ya 'bata'",
+     "s": 0,
+     "w": "б"
+    },
+    {
+     "t": "В в",
+     "r": "v",
+     "m": "В",
+     "ms": "В",
+     "n": "kama 'v' ya 'vita'",
+     "s": 0,
+     "w": "в"
+    },
+    {
+     "t": "Г г",
+     "r": "g",
+     "m": "Г",
+     "ms": "Г",
+     "n": "'g' ngumu kama katika 'gari'",
+     "s": 0,
+     "w": "г"
+    },
+    {
+     "t": "Д д",
+     "r": "d",
+     "m": "Д",
+     "ms": "Д",
+     "n": "kama 'd' ya 'daraja'",
+     "s": 0,
+     "w": "д"
+    },
+    {
+     "t": "Е е",
+     "r": "ye",
+     "m": "Е",
+     "ms": "Е",
+     "n": "kama 'ye' ya 'yeye'",
+     "s": 0,
+     "w": "е"
+    },
+    {
+     "t": "Ё ё",
+     "r": "yo",
+     "m": "Ё",
+     "ms": "Ё",
+     "n": "kama 'yo' ya 'yoyo'. Hubeba mkazo daima!",
+     "s": 0,
+     "w": "ё"
+    },
+    {
+     "t": "Ж ж",
+     "r": "zh",
+     "m": "Ж",
+     "ms": "Ж",
+     "n": "kama 's' katika 'measure': sauti ya mvumo",
+     "s": 0,
+     "w": "ж"
+    },
+    {
+     "t": "З з",
+     "r": "z",
+     "m": "З",
+     "ms": "З",
+     "n": "kama 'z' ya 'zawadi'",
+     "s": 0,
+     "w": "з"
+    },
+    {
+     "t": "И и",
+     "r": "ee",
+     "m": "И",
+     "ms": "И",
+     "n": "kama 'ii' ndefu ya 'kiti'",
+     "s": 0,
+     "w": "и"
+    },
+    {
+     "t": "Й й",
+     "r": "y",
+     "m": "Й",
+     "ms": "Й",
+     "n": "'i' fupi, kama 'y' ya 'yai'",
+     "s": 0,
+     "w": "й"
+    }
+   ],
+   "drills": [
+    {
+     "q": "Herufi gani hubeba mkazo daima na husomwa 'yo'?",
+     "o": [
+      "Ё",
+      "Е",
+      "Ю",
+      "Я"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Ж inasomwaje?",
+     "o": [
+      "Kama 's' katika 'measure'",
+      "Kama 'sh' katika 'shule'",
+      "Kama 'ch' katika 'chai'",
+      "Kama 'z' katika 'zawadi'"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Й inasomwa kama...?",
+     "o": [
+      "'y' fupi kama katika 'yai'",
+      "'ii' ndefu",
+      "'ya'",
+      "'yo'"
+     ],
+     "a": 0,
+     "e": ""
+    }
+   ]
+  },
+  {
+   "id": "ru2",
+   "title": "Alfabeti II",
+   "emoji": "🔤",
+   "intro": "Herufi zaidi. Angalia: Р inavuma, С si kamwe Z, na О hubadilika isipokuwa na mkazo.",
+   "items": [
+    {
+     "t": "К к",
+     "r": "k",
+     "m": "К",
+     "ms": "К",
+     "n": "kama 'k' ya 'kamba'",
+     "s": 0,
+     "w": "к"
+    },
+    {
+     "t": "Л л",
+     "r": "l",
+     "m": "Л",
+     "ms": "Л",
+     "n": "kama 'l' ya 'lala'",
+     "s": 0,
+     "w": "л"
+    },
+    {
+     "t": "М м",
+     "r": "m",
+     "m": "М",
+     "ms": "М",
+     "n": "kama 'm' ya 'mama'",
+     "s": 0,
+     "w": "м"
+    },
+    {
+     "t": "Н н",
+     "r": "n",
+     "m": "Н",
+     "ms": "Н",
+     "n": "kama 'n' ya 'nani'",
+     "s": 0,
+     "w": "н"
+    },
+    {
+     "t": "О о",
+     "r": "o",
+     "m": "О",
+     "ms": "О",
+     "n": "'o' ya 'moto' ikiwa na mkazo; kama 'a' fupi isipokuwa na mkazo",
+     "s": 0,
+     "w": "о"
+    },
+    {
+     "t": "П п",
+     "r": "p",
+     "m": "П",
+     "ms": "П",
+     "n": "kama 'p' ya 'papa'",
+     "s": 0,
+     "w": "п"
+    },
+    {
+     "t": "Р р",
+     "r": "rr",
+     "m": "Р",
+     "ms": "Р",
+     "n": "mvumo wa ulimi, kama rr ya Kihispania",
+     "s": 0,
+     "w": "р"
+    },
+    {
+     "t": "С с",
+     "r": "s",
+     "m": "С",
+     "ms": "С",
+     "n": "kama 's' ya 'sasa', kamwe si 'z'",
+     "s": 0,
+     "w": "с"
+    },
+    {
+     "t": "Т т",
+     "r": "t",
+     "m": "Т",
+     "ms": "Т",
+     "n": "kama 't' ya 'tatu'",
+     "s": 0,
+     "w": "т"
+    },
+    {
+     "t": "У у",
+     "r": "oo",
+     "m": "У",
+     "ms": "У",
+     "n": "kama 'u' ya 'kuku'",
+     "s": 0,
+     "w": "у"
+    },
+    {
+     "t": "Ф ф",
+     "r": "f",
+     "m": "Ф",
+     "ms": "Ф",
+     "n": "kama 'f' ya 'faida'",
+     "s": 0,
+     "w": "ф"
+    }
+   ],
+   "drills": [
+    {
+     "q": "Р inasomwaje?",
+     "o": [
+      "Inavuma, kama rr ya Kihispania",
+      "Kama r ya Kiingereza",
+      "'g' ngumu",
+      "Haisomwi"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "У inasomwa kama...?",
+     "o": [
+      "'u' ya 'kuku'",
+      "'a' ya 'baba'",
+      "'o' ya 'moto'",
+      "'i' ya 'kiti'"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "О isiyo na mkazo husomwa kama...?",
+     "o": [
+      "'a' fupi",
+      "'o' ndefu",
+      "'e'",
+      "'i'"
+     ],
+     "a": 0,
+     "e": ""
+    }
+   ]
+  },
+  {
+   "id": "ru3",
+   "title": "Alfabeti III",
+   "emoji": "🔤",
+   "intro": "Herufi za mwisho, pamoja na alama mbili zisizosomwa na Ы ngumu.",
+   "items": [
+    {
+     "t": "Х х",
+     "r": "kh",
+     "m": "Х",
+     "ms": "Х",
+     "n": "mvumo wa kooni, kama 'kh' ya 'khamsini'",
+     "s": 0,
+     "w": "х"
+    },
+    {
+     "t": "Ц ц",
+     "r": "ts",
+     "m": "Ц",
+     "ms": "Ц",
+     "n": "kama 'ts' katika 'tsetse'",
+     "s": 0,
+     "w": "ц"
+    },
+    {
+     "t": "Ч ч",
+     "r": "ch",
+     "m": "Ч",
+     "ms": "Ч",
+     "n": "kama 'ch' ya 'chai'",
+     "s": 0,
+     "w": "ч"
+    },
+    {
+     "t": "Ш ш",
+     "r": "sh",
+     "m": "Ш",
+     "ms": "Ш",
+     "n": "kama 'sh' ya 'shule': ngumu na bapa",
+     "s": 0,
+     "w": "ш"
+    },
+    {
+     "t": "Щ щ",
+     "r": "shch",
+     "m": "Щ",
+     "ms": "Щ",
+     "n": "'sh' laini na ndefu zaidi",
+     "s": 0,
+     "w": "щ"
+    },
+    {
+     "t": "Ъ ъ",
+     "r": "-",
+     "m": "Alama ngumu",
+     "ms": "Alama ngumu",
+     "n": "alama ngumu: haisomwi, inaweka konsonanti ngumu",
+     "s": 0
+    },
+    {
+     "t": "Ы ы",
+     "r": "y",
+     "m": "Ы",
+     "ms": "Ы",
+     "n": "'i' ya kooni: vuta ulimi nyuma",
+     "s": 0,
+     "w": "ы"
+    },
+    {
+     "t": "Ь ь",
+     "r": "-",
+     "m": "Alama laini",
+     "ms": "Alama laini",
+     "n": "alama laini: haisomwi, inalainisha konsonanti kabla yake",
+     "s": 0
+    },
+    {
+     "t": "Э э",
+     "r": "e",
+     "m": "Э",
+     "ms": "Э",
+     "n": "kama 'e' ya 'eneo'",
+     "s": 0,
+     "w": "э"
+    },
+    {
+     "t": "Ю ю",
+     "r": "yoo",
+     "m": "Ю",
+     "ms": "Ю",
+     "n": "kama 'yu' ya 'yuko'",
+     "s": 0,
+     "w": "ю"
+    },
+    {
+     "t": "Я я",
+     "r": "ya",
+     "m": "Я",
+     "ms": "Я",
+     "n": "kama 'ya' ya 'yaya'",
+     "s": 0,
+     "w": "я"
+    }
+   ],
+   "drills": [
+    {
+     "q": "Herufi zipi hazisomwi (ni alama)?",
+     "o": [
+      "Ъ na Ь",
+      "Ы na Э",
+      "Ч na Щ",
+      "Ю na Я"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Х inasomwa kama...?",
+     "o": [
+      "mvumo wa kooni (kh)",
+      "'h' laini",
+      "'k'",
+      "'sh'"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Ы ni...?",
+     "o": [
+      "'i' ya kooni, ulimi nyuma",
+      "sawa na И",
+      "haisomwi",
+      "'ya'"
+     ],
+     "a": 0,
+     "e": ""
+    }
+   ]
+  },
+  {
+   "id": "ru4",
+   "title": "Maneno ya Kwanza",
+   "emoji": "🗣️",
+   "intro": "Sema na uandike maneno yako ya kwanza. Mkazo katika Kirusi husogea, kwa hiyo jifunze mkazo pamoja na neno (silabi yenye mkazo kwa HERUFI KUBWA).",
+   "items": [
+    {
+     "t": "мама",
+     "r": "MAH-ma",
+     "m": "mom",
+     "ms": "mama",
+     "w": "мама"
+    },
+    {
+     "t": "дом",
+     "r": "dom",
+     "m": "house",
+     "ms": "nyumba",
+     "n": "kiume: huishia konsonanti",
+     "w": "дом"
+    },
+    {
+     "t": "вода",
+     "r": "va-DAH",
+     "m": "water",
+     "ms": "maji",
+     "n": "kike: huishia -а",
+     "w": "вода"
+    },
+    {
+     "t": "окно",
+     "r": "ak-NOH",
+     "m": "window",
+     "ms": "dirisha",
+     "n": "kati: huishia -о",
+     "w": "окно"
+    },
+    {
+     "t": "море",
+     "r": "MOH-rye",
+     "m": "sea",
+     "ms": "bahari",
+     "n": "kati: huishia -е"
+    },
+    {
+     "t": "песня",
+     "r": "PYES-nya",
+     "m": "song",
+     "ms": "wimbo",
+     "n": "kike: huishia -я"
+    },
+    {
+     "t": "книга",
+     "r": "KNEE-ga",
+     "m": "book",
+     "ms": "kitabu",
+     "n": "kike",
+     "w": "книга"
+    },
+    {
+     "t": "музей",
+     "r": "moo-ZYAY",
+     "m": "museum",
+     "ms": "jumba la makumbusho",
+     "n": "kiume: huishia -й"
+    }
+   ],
+   "drills": [
+    {
+     "q": "Jinsia ya дом?",
+     "o": [
+      "Kiume",
+      "Kike",
+      "Kati",
+      "Haijulikani"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Jinsia ya вода?",
+     "o": [
+      "Kiume",
+      "Kike",
+      "Kati",
+      "Wingi"
+     ],
+     "a": 1,
+     "e": ""
+    },
+    {
+     "q": "Jinsia ya окно?",
+     "o": [
+      "Kiume",
+      "Kike",
+      "Kati",
+      "Wingi"
+     ],
+     "a": 2,
+     "e": ""
+    },
+    {
+     "q": "Maneno yanayoishia alama laini (ночь) yakoje?",
+     "o": [
+      "Jinsia lazima ikariri",
+      "Daima kiume",
+      "Daima kati",
+      "Daima wingi"
+     ],
+     "a": 0,
+     "e": ""
+    }
+   ]
+  },
+  {
+   "id": "ru5",
+   "title": "Jinsia, Wingi na Mkazo",
+   "emoji": "⚖️",
+   "intro": "Vivumishi huiga nomino: новый дом, новая книга, новое окно. Wingi: -ы / -и kwa nomino nyingi za kiume na kike, -а / -я kwa za kati. Mkazo unaweza kubadilisha maana: за́мок = ngome, замо́к = kufuli.",
+   "items": [
+    {
+     "t": "новый дом",
+     "r": "NO-vyy dom",
+     "m": "new house",
+     "ms": "nyumba mpya"
+    },
+    {
+     "t": "новая книга",
+     "r": "NO-va-ya KNEE-ga",
+     "m": "new book",
+     "ms": "kitabu kipya"
+    },
+    {
+     "t": "новое окно",
+     "r": "NO-vo-ye ak-NOH",
+     "m": "new window",
+     "ms": "dirisha jipya"
+    },
+    {
+     "t": "дома",
+     "r": "DOH-ma",
+     "m": "houses",
+     "ms": "nyumba (wingi)"
+    },
+    {
+     "t": "книги",
+     "r": "KNEE-gee",
+     "m": "books",
+     "ms": "vitabu"
+    },
+    {
+     "t": "окна",
+     "r": "OK-na",
+     "m": "windows",
+     "ms": "madirisha"
+    },
+    {
+     "t": "моря",
+     "r": "mar-YAH",
+     "m": "seas",
+     "ms": "bahari (wingi)"
+    },
+    {
+     "t": "за́мок",
+     "r": "ZAH-mok",
+     "m": "castle",
+     "ms": "ngome",
+     "n": "mkazo kwenye silabi YA KWANZA",
+     "s": 0
+    },
+    {
+     "t": "замо́к",
+     "r": "za-MOK",
+     "m": "lock",
+     "ms": "kufuli",
+     "n": "mkazo kwenye silabi YA PILI",
+     "s": 0
+    }
+   ],
+   "drills": [
+    {
+     "q": "Wingi wa книга?",
+     "o": [
+      "книги",
+      "книгы",
+      "книгов",
+      "книга"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Wingi wa окно?",
+     "o": [
+      "окна",
+      "окны",
+      "окни",
+      "окнов"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Kivumishi cha 'книга' (kike)?",
+     "o": [
+      "новая",
+      "новый",
+      "новое",
+      "новые"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Neno gani linamaanisha 'kufuli' (mkazo kwenye silabi ya pili)?",
+     "o": [
+      "замо́к",
+      "за́мок"
+     ],
+     "a": 0,
+     "e": "Kusogeza mkazo kunabadilisha maana."
+    },
+    {
+     "q": "Kwa nini mkazo ni muhimu?",
+     "o": [
+      "Unaweza kubadilisha maana",
+      "Haubadiliki kamwe",
+      "Daima ni silabi ya kwanza",
+      "Unaathiri tahajia tu"
+     ],
+     "a": 0,
+     "e": ""
+    }
+   ]
+  },
+  {
+   "id": "ru6",
+   "title": "Vitenzi na Kauli (Cases)",
+   "emoji": "🔧",
+   "intro": "Wakati uliopo: kundi la 1 (читать): -ю -ешь -ет -ем -ете -ют. Kundi la 2 (говорить): -ю -ишь -ит -им -ите -ят. Kuna kauli sita zinazoonyesha kazi ya kila nomino: Nominative (nani), Genitive (wa), Dative (kwa), Accusative (nani/nini), Instrumental (kwa/pamoja na), Prepositional (kuhusu).",
+   "items": [
+    {
+     "t": "я читаю",
+     "r": "ya chee-TAH-yu",
+     "m": "I read",
+     "ms": "ninasoma"
+    },
+    {
+     "t": "ты читаешь",
+     "r": "ty chee-TAH-yesh",
+     "m": "you read",
+     "ms": "unasoma"
+    },
+    {
+     "t": "мы читаем",
+     "r": "my chee-TAH-yem",
+     "m": "we read",
+     "ms": "tunasoma"
+    },
+    {
+     "t": "они читают",
+     "r": "a-NEE chee-TAH-yut",
+     "m": "they read",
+     "ms": "wanasoma"
+    },
+    {
+     "t": "я говорю",
+     "r": "ya ga-va-RYU",
+     "m": "I speak",
+     "ms": "ninaongea"
+    },
+    {
+     "t": "ты говоришь",
+     "r": "ty ga-va-REESH",
+     "m": "you speak",
+     "ms": "unaongea"
+    },
+    {
+     "t": "они говорят",
+     "r": "a-NEE ga-va-RYAT",
+     "m": "they speak",
+     "ms": "wanaongea"
+    },
+    {
+     "t": "студент читает",
+     "r": "stoo-DYENT chee-TAH-yet",
+     "m": "The student is reading",
+     "ms": "Mwanafunzi anasoma",
+     "n": "Nominative: kiima"
+    },
+    {
+     "t": "книга студента",
+     "r": "KNEE-ga stoo-DYEN-ta",
+     "m": "the student's book",
+     "ms": "kitabu cha mwanafunzi",
+     "n": "Genitive: 'cha / wa'"
+    },
+    {
+     "t": "я вижу студента",
+     "r": "ya VEE-zhu stoo-DYEN-ta",
+     "m": "I see the student",
+     "ms": "Namwona mwanafunzi",
+     "n": "Accusative: shamirisho"
+    }
+   ],
+   "drills": [
+    {
+     "q": "Kauli gani inaonyesha kiima?",
+     "o": [
+      "Nominative",
+      "Genitive",
+      "Dative",
+      "Instrumental"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Kauli gani inajibu 'Cha nani?' (книга студента)?",
+     "o": [
+      "Genitive",
+      "Dative",
+      "Accusative",
+      "Prepositional"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Kauli gani inamaanisha 'kwa kutumia / pamoja na'?",
+     "o": [
+      "Instrumental",
+      "Prepositional",
+      "Nominative",
+      "Dative"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "говорить ni la kundi gani?",
+     "o": [
+      "Kundi la 2 (-ить)",
+      "Kundi la 1 (-ать)",
+      "Lisilo la kawaida tu",
+      "Halibadiliki"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Я ___ (читать)",
+     "o": [
+      "читаю",
+      "читаешь",
+      "читает",
+      "читают"
+     ],
+     "a": 0,
+     "e": ""
+    }
+   ]
+  }
+ ],
+ "stories": [
+  {
+   "id": "ru_s1",
+   "title": "Mama na Kitabu",
+   "emoji": "📚",
+   "lines": [
+    {
+     "t": "Привет! Это мама.",
+     "r": "pree-VYET! E-ta MAH-ma",
+     "m": "Hi! This is mom.",
+     "ms": "Habari! Huyu ni mama."
+    },
+    {
+     "t": "Мама читает новую книгу.",
+     "r": "MAH-ma chee-TAH-yet NO-vu-yu KNEE-gu",
+     "m": "Mom is reading a new book.",
+     "ms": "Mama anasoma kitabu kipya."
+    },
+    {
+     "t": "Я вижу окно и море.",
+     "r": "ya VEE-zhu ak-NOH ee MOH-rye",
+     "m": "I see a window and the sea.",
+     "ms": "Naona dirisha na bahari."
+    },
+    {
+     "t": "Мы говорим о книге.",
+     "r": "my ga-va-REEM a KNEE-gye",
+     "m": "We talk about the book.",
+     "ms": "Tunaongea kuhusu kitabu."
+    },
+    {
+     "t": "Пока!",
+     "r": "pa-KAH",
+     "m": "Bye!",
+     "ms": "Kwaheri!"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Mama anasoma nini?",
+     "o": [
+      "Kitabu kipya",
+      "Wimbo",
+      "Barua",
+      "Ramani"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Ninaona nini?",
+     "o": [
+      "Dirisha na bahari",
+      "Nyumba na gari",
+      "Jumba la makumbusho",
+      "Wimbo"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Wanaongea kuhusu nini?",
+     "o": [
+      "Kitabu",
+      "Bahari",
+      "Dirisha",
+      "Maji"
+     ],
+     "a": 0,
+     "e": ""
+    }
+   ]
+  }
+ ],
+ "songs": [
+  {
+   "id": "ru_g1",
+   "title": "Wimbo wa Herufi",
+   "emoji": "🎵",
+   "lines": [
+    {
+     "t": "А, Б, В, Г, Д — мы поём!",
+     "r": "ah, beh, veh, geh, deh — my pa-YOM",
+     "m": "A, B, V, G, D, we sing!",
+     "ms": "A, B, V, G, D — tunaimba!"
+    },
+    {
+     "t": "Мама, дом, окно, вода,",
+     "r": "MAH-ma, dom, ak-NOH, va-DAH",
+     "m": "Mom, house, window, water,",
+     "ms": "Mama, nyumba, dirisha, maji,"
+    },
+    {
+     "t": "Читаем, говорим, поём,",
+     "r": "chee-TAH-yem, ga-va-REEM, pa-YOM",
+     "m": "We read, we speak, we sing,",
+     "ms": "Tunasoma, tunaongea, tunaimba,"
+    },
+    {
+     "t": "Русский язык — это игра!",
+     "r": "ROOS-kiy ya-ZYK E-ta ee-GRAH",
+     "m": "The Russian language is a game!",
+     "ms": "Lugha ya Kirusi ni mchezo!"
+    }
+   ]
+  }
+ ]
+}

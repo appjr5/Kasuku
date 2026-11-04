@@ -1,0 +1,636 @@
+{
+ "code": "ja",
+ "name": "Japanese",
+ "native": "日本語",
+ "flag": "🇯🇵",
+ "tts": "ja-JP",
+ "whisper": "ja",
+ "ink": "ja",
+ "color": 4294405002,
+ "units": [
+  {
+   "id": "ja1",
+   "title": "Hiragana: Sauti za Kwanza",
+   "emoji": "🔤",
+   "intro": "Kijapani kinatumia mifumo mitatu ya uandishi. Hiragana (herufi 46) ni ya maneno ya asili, viambishi na viishio vya vitenzi. Katakana (herufi 46) ni ya maneno ya kigeni na msisitizo. Kanji ni herufi zilizotoka Kichina zinazobeba maana kuu ya nomino na shina la vitenzi. Habari njema: vokali a, i, u, e, o ni sawa kabisa na za Kiswahili!",
+   "items": [
+    {
+     "t": "あ",
+     "r": "a",
+     "m": "sound 'a'",
+     "ms": "sauti 'a'",
+     "n": "sawa na ya Kiswahili",
+     "s": 0,
+     "w": "あ"
+    },
+    {
+     "t": "い",
+     "r": "i",
+     "m": "sound 'i'",
+     "ms": "sauti 'i'",
+     "n": "sawa na ya Kiswahili",
+     "s": 0,
+     "w": "い"
+    },
+    {
+     "t": "う",
+     "r": "u",
+     "m": "sound 'u'",
+     "ms": "sauti 'u'",
+     "n": "sawa na ya Kiswahili",
+     "s": 0,
+     "w": "う"
+    },
+    {
+     "t": "え",
+     "r": "e",
+     "m": "sound 'e'",
+     "ms": "sauti 'e'",
+     "n": "sawa na ya Kiswahili",
+     "s": 0,
+     "w": "え"
+    },
+    {
+     "t": "お",
+     "r": "o",
+     "m": "sound 'o'",
+     "ms": "sauti 'o'",
+     "n": "sawa na ya Kiswahili",
+     "s": 0,
+     "w": "お"
+    },
+    {
+     "t": "か",
+     "r": "ka",
+     "m": "sound 'ka'",
+     "ms": "sauti 'ka'",
+     "s": 0,
+     "w": "か"
+    },
+    {
+     "t": "き",
+     "r": "ki",
+     "m": "sound 'ki'",
+     "ms": "sauti 'ki'",
+     "s": 0,
+     "w": "き"
+    },
+    {
+     "t": "く",
+     "r": "ku",
+     "m": "sound 'ku'",
+     "ms": "sauti 'ku'",
+     "s": 0,
+     "w": "く"
+    },
+    {
+     "t": "け",
+     "r": "ke",
+     "m": "sound 'ke'",
+     "ms": "sauti 'ke'",
+     "s": 0,
+     "w": "け"
+    },
+    {
+     "t": "こ",
+     "r": "ko",
+     "m": "sound 'ko'",
+     "ms": "sauti 'ko'",
+     "s": 0,
+     "w": "こ"
+    },
+    {
+     "t": "あい",
+     "r": "ai",
+     "m": "love",
+     "ms": "upendo",
+     "alt": [
+      "愛"
+     ]
+    },
+    {
+     "t": "いえ",
+     "r": "ie",
+     "m": "house",
+     "ms": "nyumba",
+     "alt": [
+      "家"
+     ]
+    },
+    {
+     "t": "あお",
+     "r": "ao",
+     "m": "blue",
+     "ms": "samawati",
+     "alt": [
+      "青"
+     ]
+    }
+   ],
+   "drills": [
+    {
+     "q": "Mfumo gani unatumika kwa maneno ya kigeni?",
+     "o": [
+      "Katakana",
+      "Hiragana",
+      "Kanji",
+      "Pinyin"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Hiragana ina herufi ngapi?",
+     "o": [
+      "46",
+      "26",
+      "33",
+      "100"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Mfumo gani unabeba maana kuu ya nomino na shina la vitenzi?",
+     "o": [
+      "Kanji",
+      "Katakana",
+      "Hiragana",
+      "Romaji"
+     ],
+     "a": 0,
+     "e": ""
+    }
+   ]
+  },
+  {
+   "id": "ja2",
+   "title": "Katakana na Kanji",
+   "emoji": "🈴",
+   "intro": "Katakana ina sauti zile zile za hiragana lakini kwa pembe kali zaidi. Kanji hubeba maana nzima katika herufi moja na husomwa kwa njia zaidi ya moja, kwa hiyo tunazijifunza ndani ya maneno.",
+   "items": [
+    {
+     "t": "コーヒー",
+     "r": "koohii",
+     "m": "coffee",
+     "ms": "kahawa",
+     "n": "neno la kigeni kwa katakana",
+     "alt": [
+      "こーひー"
+     ],
+     "w": "コーヒー"
+    },
+    {
+     "t": "テレビ",
+     "r": "terebi",
+     "m": "TV",
+     "ms": "televisheni",
+     "n": "neno la kigeni kwa katakana",
+     "alt": [
+      "てれび"
+     ],
+     "w": "テレビ"
+    },
+    {
+     "t": "日本",
+     "r": "nihon",
+     "m": "Japan",
+     "ms": "Japani",
+     "alt": [
+      "にほん"
+     ],
+     "w": "日本"
+    },
+    {
+     "t": "学生",
+     "r": "gakusei",
+     "m": "student",
+     "ms": "mwanafunzi",
+     "alt": [
+      "がくせい"
+     ]
+    },
+    {
+     "t": "水",
+     "r": "mizu",
+     "m": "water",
+     "ms": "maji",
+     "alt": [
+      "みず"
+     ],
+     "w": "水"
+    },
+    {
+     "t": "本",
+     "r": "hon",
+     "m": "book",
+     "ms": "kitabu",
+     "alt": [
+      "ほん"
+     ],
+     "w": "本"
+    },
+    {
+     "t": "私",
+     "r": "watashi",
+     "m": "I / me",
+     "ms": "mimi",
+     "alt": [
+      "わたし"
+     ],
+     "w": "私"
+    },
+    {
+     "t": "車",
+     "r": "kuruma",
+     "m": "car",
+     "ms": "gari",
+     "alt": [
+      "くるま"
+     ],
+     "w": "車"
+    }
+   ],
+   "drills": [
+    {
+     "q": "テレビ imeandikwa kwa mfumo gani?",
+     "o": [
+      "Katakana",
+      "Hiragana",
+      "Kanji",
+      "Herufi za Kilatini"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "水 inabeba maana 'maji'. Ni...?",
+     "o": [
+      "Kanji",
+      "Hiragana",
+      "Katakana",
+      "Kiambishi"
+     ],
+     "a": 0,
+     "e": ""
+    }
+   ]
+  },
+  {
+   "id": "ja3",
+   "title": "Viambishi (Particles)",
+   "emoji": "🔗",
+   "intro": "Viambishi huungana na mwisho wa nomino na kuonyesha kazi yake. は (wa) = mada. が (ga) = kiima. を (o) = shamirisho. に (ni) = lengo au mahali ('kwenda', 'katika'). で (de) = mahali pa tendo au njia ('kwa', 'katika').",
+   "items": [
+    {
+     "t": "私は学生です",
+     "r": "watashi wa gakusei desu",
+     "m": "As for me, I am a student",
+     "ms": "Mimi ni mwanafunzi",
+     "n": "は inasomwa 'wa'",
+     "alt": [
+      "わたしはがくせいです"
+     ]
+    },
+    {
+     "t": "水が冷たい",
+     "r": "mizu ga tsumetai",
+     "m": "The water is cold",
+     "ms": "Maji ni baridi",
+     "alt": [
+      "みずがつめたい"
+     ]
+    },
+    {
+     "t": "本を読んだ",
+     "r": "hon o yonda",
+     "m": "I read a book",
+     "ms": "Nilisoma kitabu",
+     "n": "を inasomwa 'o'",
+     "alt": [
+      "ほんをよんだ"
+     ]
+    },
+    {
+     "t": "日本に行く",
+     "r": "nihon ni iku",
+     "m": "I go to Japan",
+     "ms": "Naenda Japani",
+     "alt": [
+      "にほんにいく"
+     ]
+    },
+    {
+     "t": "車で行く",
+     "r": "kuruma de iku",
+     "m": "I go by car",
+     "ms": "Naenda kwa gari",
+     "alt": [
+      "くるまでいく"
+     ]
+    },
+    {
+     "t": "これは本です",
+     "r": "kore wa hon desu",
+     "m": "This is a book",
+     "ms": "Hiki ni kitabu",
+     "alt": [
+      "これはほんです"
+     ]
+    },
+    {
+     "t": "学校に行く",
+     "r": "gakkou ni iku",
+     "m": "I go to school",
+     "ms": "Naenda shuleni",
+     "alt": [
+      "がっこうにいく"
+     ]
+    }
+   ],
+   "drills": [
+    {
+     "q": "Kiambishi gani kinaonyesha mada?",
+     "o": [
+      "は (wa)",
+      "が (ga)",
+      "を (o)",
+      "で (de)"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "車__行く (naenda kwa gari)",
+     "o": [
+      "で",
+      "に",
+      "を",
+      "は"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "日本__行く (naenda Japani)",
+     "o": [
+      "に",
+      "で",
+      "を",
+      "が"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Kiambishi gani kinaonyesha shamirisho?",
+     "o": [
+      "を",
+      "に",
+      "で",
+      "は"
+     ],
+     "a": 0,
+     "e": ""
+    }
+   ]
+  },
+  {
+   "id": "ja4",
+   "title": "Vitenzi vya Heshima",
+   "emoji": "🙇",
+   "intro": "Vitenzi havibadiliki kwa nafsi, wingi wala jinsia. Hubadilika tu kwa heshima na wakati: ます (wakati uliopo) · ません (kukanusha) · ました (uliopita) · ませんでした (uliopita kukanusha).",
+   "items": [
+    {
+     "t": "食べます",
+     "r": "tabemasu",
+     "m": "I eat / will eat",
+     "ms": "Ninakula / Nitakula",
+     "alt": [
+      "たべます"
+     ]
+    },
+    {
+     "t": "食べません",
+     "r": "tabemasen",
+     "m": "I don't eat",
+     "ms": "Sili",
+     "alt": [
+      "たべません"
+     ]
+    },
+    {
+     "t": "食べました",
+     "r": "tabemashita",
+     "m": "I ate",
+     "ms": "Nilikula",
+     "alt": [
+      "たべました"
+     ]
+    },
+    {
+     "t": "食べませんでした",
+     "r": "tabemasendeshita",
+     "m": "I didn't eat",
+     "ms": "Sikula",
+     "alt": [
+      "たべませんでした"
+     ]
+    },
+    {
+     "t": "行きます",
+     "r": "ikimasu",
+     "m": "I go",
+     "ms": "Naenda",
+     "alt": [
+      "いきます"
+     ]
+    },
+    {
+     "t": "飲みます",
+     "r": "nomimasu",
+     "m": "I drink",
+     "ms": "Ninakunywa",
+     "alt": [
+      "のみます"
+     ]
+    },
+    {
+     "t": "水を飲みます",
+     "r": "mizu o nomimasu",
+     "m": "I drink water",
+     "ms": "Ninakunywa maji",
+     "alt": [
+      "みずをのみます"
+     ]
+    },
+    {
+     "t": "日本に行きました",
+     "r": "nihon ni ikimashita",
+     "m": "I went to Japan",
+     "ms": "Nilienda Japani",
+     "alt": [
+      "にほんにいきました"
+     ]
+    }
+   ],
+   "drills": [
+    {
+     "q": "Umbo la heshima la kukanusha wakati uliopita la 食べる?",
+     "o": [
+      "食べませんでした",
+      "食べました",
+      "食べません",
+      "食べます"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Kiishio gani ni wakati uliopita wa kawaida (heshima)?",
+     "o": [
+      "〜ました",
+      "〜ます",
+      "〜ません",
+      "〜ませんでした"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Vitenzi vya Kijapani hubadilika kwa mimi / wewe / yeye?",
+     "o": [
+      "Hapana, vinabaki vilevile",
+      "Ndiyo, kuna maumbo sita",
+      "Kwa 'yeye' tu",
+      "Wakati uliopita tu"
+     ],
+     "a": 0,
+     "e": ""
+    }
+   ]
+  }
+ ],
+ "stories": [
+  {
+   "id": "ja_s1",
+   "title": "Kifungua Kinywa",
+   "emoji": "🍙",
+   "lines": [
+    {
+     "t": "私は学生です。",
+     "r": "watashi wa gakusei desu",
+     "m": "I am a student.",
+     "ms": "Mimi ni mwanafunzi.",
+     "alt": [
+      "わたしはがくせいです"
+     ]
+    },
+    {
+     "t": "朝、パンを食べます。",
+     "r": "asa, pan o tabemasu",
+     "m": "In the morning I eat bread.",
+     "ms": "Asubuhi, ninakula mkate.",
+     "alt": [
+      "あさぱんをたべます"
+     ]
+    },
+    {
+     "t": "水を飲みます。",
+     "r": "mizu o nomimasu",
+     "m": "I drink water.",
+     "ms": "Ninakunywa maji.",
+     "alt": [
+      "みずをのみます"
+     ]
+    },
+    {
+     "t": "学校に行きます。",
+     "r": "gakkou ni ikimasu",
+     "m": "I go to school.",
+     "ms": "Naenda shuleni.",
+     "alt": [
+      "がっこうにいきます"
+     ]
+    },
+    {
+     "t": "車で行きません。",
+     "r": "kuruma de ikimasen",
+     "m": "I don't go by car.",
+     "ms": "Siendi kwa gari.",
+     "alt": [
+      "くるまでいきません"
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Mwanafunzi anakunywa nini?",
+     "o": [
+      "Maji",
+      "Kahawa",
+      "Maziwa",
+      "Juisi"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Je, mwanafunzi anaenda kwa gari?",
+     "o": [
+      "Hapana",
+      "Ndiyo",
+      "Jumapili tu",
+      "Haijulikani"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Mwanafunzi anaenda wapi?",
+     "o": [
+      "Shuleni",
+      "Japani",
+      "Nyumbani",
+      "Dukani"
+     ],
+     "a": 0,
+     "e": ""
+    }
+   ]
+  }
+ ],
+ "songs": [
+  {
+   "id": "ja_g1",
+   "title": "Wimbo wa ます",
+   "emoji": "🎵",
+   "lines": [
+    {
+     "t": "たべます たべます おいしいごはん",
+     "r": "tabemasu tabemasu oishii gohan",
+     "m": "I eat, I eat, tasty rice",
+     "ms": "Nakula, nakula, wali mtamu"
+    },
+    {
+     "t": "のみます のみます つめたいみず",
+     "r": "nomimasu nomimasu tsumetai mizu",
+     "m": "I drink, I drink, cold water",
+     "ms": "Nakunywa, nakunywa, maji baridi"
+    },
+    {
+     "t": "いきます いきます がっこうに",
+     "r": "ikimasu ikimasu gakkou ni",
+     "m": "I go, I go, to school",
+     "ms": "Naenda, naenda, shuleni"
+    },
+    {
+     "t": "ます ます ます うたいます",
+     "r": "masu masu masu utaimasu",
+     "m": "Masu masu masu, I sing!",
+     "ms": "Masu masu masu, naimba!"
+    }
+   ]
+  }
+ ]
+}

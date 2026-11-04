@@ -1,0 +1,692 @@
+{
+ "code": "zh",
+ "name": "Mandarin",
+ "native": "中文",
+ "flag": "🇨🇳",
+ "tts": "zh-CN",
+ "whisper": "zh",
+ "ink": "zh-Hani",
+ "color": 4294288931,
+ "units": [
+  {
+   "id": "zh1",
+   "title": "Pinyin na Toni",
+   "emoji": "🎚️",
+   "intro": "Pinyin huandika sauti za Kichina kwa herufi za Kilatini, na alama za toni (ā á ǎ à) ni lazima: toni hubadilisha neno. Toni ya 1 = juu na tambarare, ya 2 = kupanda (kama 'Nini?'), ya 3 = kushuka chini kisha kupanda, ya 4 = kushuka kwa kasi kama amri. Tumia Mazoezi ya Toni kufundisha sauti yako!",
+   "items": [
+    {
+     "t": "妈",
+     "r": "mā",
+     "m": "mom (toni ya 1: juu na tambarare)",
+     "ms": "mama (toni ya 1: juu na tambarare)",
+     "s": 0,
+     "tone": "1"
+    },
+    {
+     "t": "麻",
+     "r": "má",
+     "m": "hemp (toni ya 2: kupanda)",
+     "ms": "katani (toni ya 2: kupanda)",
+     "s": 0,
+     "tone": "2"
+    },
+    {
+     "t": "马",
+     "r": "mǎ",
+     "m": "horse (toni ya 3: kushuka kisha kupanda)",
+     "ms": "farasi (toni ya 3: kushuka kisha kupanda)",
+     "s": 0,
+     "tone": "3"
+    },
+    {
+     "t": "骂",
+     "r": "mà",
+     "m": "to scold (toni ya 4: kushuka kwa kasi)",
+     "ms": "kukemea (toni ya 4: kushuka kwa kasi)",
+     "s": 0,
+     "tone": "4"
+    },
+    {
+     "t": "八",
+     "r": "bā",
+     "m": "eight (toni ya 1: juu na tambarare)",
+     "ms": "nane (toni ya 1: juu na tambarare)",
+     "s": 0,
+     "tone": "1"
+    },
+    {
+     "t": "拔",
+     "r": "bá",
+     "m": "to pull up (toni ya 2: kupanda)",
+     "ms": "kung'oa (toni ya 2: kupanda)",
+     "s": 0,
+     "tone": "2"
+    },
+    {
+     "t": "把",
+     "r": "bǎ",
+     "m": "to hold (toni ya 3: kushuka kisha kupanda)",
+     "ms": "kushika (toni ya 3: kushuka kisha kupanda)",
+     "s": 0,
+     "tone": "3"
+    },
+    {
+     "t": "爸",
+     "r": "bà",
+     "m": "dad (toni ya 4: kushuka kwa kasi)",
+     "ms": "baba (toni ya 4: kushuka kwa kasi)",
+     "s": 0,
+     "tone": "4"
+    }
+   ],
+   "drills": [
+    {
+     "q": "Toni ipi ni ya juu na tambarare?",
+     "o": [
+      "ya 1",
+      "ya 2",
+      "ya 3",
+      "ya 4"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Toni ipi inashuka kwa kasi kama amri?",
+     "o": [
+      "ya 1",
+      "ya 2",
+      "ya 3",
+      "ya 4"
+     ],
+     "a": 3,
+     "e": ""
+    },
+    {
+     "q": "Toni ipi inashuka chini kisha inapanda?",
+     "o": [
+      "ya 1",
+      "ya 2",
+      "ya 3",
+      "ya 4"
+     ],
+     "a": 2,
+     "e": ""
+    },
+    {
+     "q": "Pinyin ni nini?",
+     "o": [
+      "Uandishi wa sauti za Kichina kwa herufi za Kilatini",
+      "Aina ya herufi za Kichina",
+      "Alama ya toni",
+      "Lahaja"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Herufi Rahisi (Simplified) zinatumika wapi?",
+     "o": [
+      "China bara",
+      "Taiwan",
+      "Hong Kong",
+      "Macau"
+     ],
+     "a": 0,
+     "e": ""
+    }
+   ]
+  },
+  {
+   "id": "zh2",
+   "title": "Misemo ya Kwanza",
+   "emoji": "👋",
+   "intro": "Misemo mifupi ya kusema mara moja. Kumbuka: tamka kila silabi pamoja na toni yake!",
+   "items": [
+    {
+     "t": "你好",
+     "r": "nǐ hǎo",
+     "m": "hello",
+     "ms": "habari",
+     "alt": [
+      "你好吗"
+     ],
+     "w": "你好"
+    },
+    {
+     "t": "谢谢",
+     "r": "xièxie",
+     "m": "thank you",
+     "ms": "asante",
+     "alt": [
+      "謝謝"
+     ]
+    },
+    {
+     "t": "再见",
+     "r": "zàijiàn",
+     "m": "goodbye",
+     "ms": "kwaheri",
+     "alt": [
+      "再見"
+     ]
+    },
+    {
+     "t": "我是学生",
+     "r": "wǒ shì xuésheng",
+     "m": "I am a student",
+     "ms": "Mimi ni mwanafunzi",
+     "alt": [
+      "我是學生"
+     ]
+    },
+    {
+     "t": "对不起",
+     "r": "duìbuqǐ",
+     "m": "sorry",
+     "ms": "samahani",
+     "alt": [
+      "對不起"
+     ]
+    },
+    {
+     "t": "没关系",
+     "r": "méi guānxi",
+     "m": "it's okay",
+     "ms": "haina shida",
+     "alt": [
+      "沒關係"
+     ]
+    },
+    {
+     "t": "我叫小明",
+     "r": "wǒ jiào Xiǎomíng",
+     "m": "my name is Xiaoming",
+     "ms": "Jina langu ni Xiaoming"
+    },
+    {
+     "t": "苹果",
+     "r": "píngguǒ",
+     "m": "apple",
+     "ms": "tufaha",
+     "alt": [
+      "蘋果"
+     ]
+    }
+   ],
+   "drills": [
+    {
+     "q": "Msemo gani ni 'asante'?",
+     "o": [
+      "谢谢",
+      "再见",
+      "你好",
+      "对不起"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "'hǎo' (好) ina toni gani?",
+     "o": [
+      "ya 3",
+      "ya 1",
+      "ya 2",
+      "ya 4"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "再见 inamaanisha...?",
+     "o": [
+      "kwaheri",
+      "habari",
+      "samahani",
+      "tufaha"
+     ],
+     "a": 0,
+     "e": ""
+    }
+   ]
+  },
+  {
+   "id": "zh3",
+   "title": "Viashiria vya Wakati",
+   "emoji": "⏱️",
+   "intro": "Vitenzi vya Kichina havibadiliki kamwe. Wakati unaonyeshwa kwa maneno ya wakati au viashiria: 了 (le) = tendo lililokamilika · 过 (guò) = uzoefu wa zamani ('nimewahi') · 正在 (zhèngzài) = tendo linaloendelea.",
+   "items": [
+    {
+     "t": "我吃了苹果",
+     "r": "wǒ chī le píngguǒ",
+     "m": "I ate the apple",
+     "ms": "Nilikula tufaha",
+     "n": "了 = limekamilika",
+     "alt": [
+      "我吃了蘋果"
+     ]
+    },
+    {
+     "t": "我去过日本",
+     "r": "wǒ qù guo Rìběn",
+     "m": "I have been to Japan",
+     "ms": "Nimewahi kwenda Japani",
+     "n": "过 = uzoefu",
+     "alt": [
+      "我去過日本"
+     ]
+    },
+    {
+     "t": "我正在吃饭",
+     "r": "wǒ zhèngzài chīfàn",
+     "m": "I am eating",
+     "ms": "Ninakula sasa hivi",
+     "n": "正在 = linaendelea",
+     "alt": [
+      "我正在吃飯"
+     ]
+    },
+    {
+     "t": "他看了书",
+     "r": "tā kàn le shū",
+     "m": "He read the book",
+     "ms": "Alisoma kitabu",
+     "alt": [
+      "他看了書"
+     ]
+    },
+    {
+     "t": "她去过北京",
+     "r": "tā qù guo Běijīng",
+     "m": "She has been to Beijing",
+     "ms": "Amewahi kwenda Beijing",
+     "alt": [
+      "她去過北京"
+     ]
+    },
+    {
+     "t": "我们正在学习",
+     "r": "wǒmen zhèngzài xuéxí",
+     "m": "We are studying",
+     "ms": "Tunasoma sasa hivi",
+     "alt": [
+      "我們正在學習"
+     ]
+    },
+    {
+     "t": "我喝了水",
+     "r": "wǒ hē le shuǐ",
+     "m": "I drank water",
+     "ms": "Nilikunywa maji"
+    }
+   ],
+   "drills": [
+    {
+     "q": "Kiashiria gani kinaonyesha tendo lililokamilika?",
+     "o": [
+      "了 (le)",
+      "过 (guò)",
+      "正在 (zhèngzài)",
+      "吗 (ma)"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Kipi kinaonyesha uzoefu wa zamani ('nimewahi')?",
+     "o": [
+      "过",
+      "了",
+      "正在",
+      "的"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Kipi kinaonyesha tendo linaloendelea?",
+     "o": [
+      "正在",
+      "了",
+      "过",
+      "吗"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Vitenzi vya Kichina hubadilika kwa wakati?",
+     "o": [
+      "Hapana: viashiria na maneno ya wakati huonyesha wakati",
+      "Ndiyo, kama Kihispania",
+      "Wakati uliopita tu",
+      "Wakati ujao tu"
+     ],
+     "a": 0,
+     "e": ""
+    }
+   ]
+  },
+  {
+   "id": "zh4",
+   "title": "Kuandika Hanzi",
+   "emoji": "✍️",
+   "intro": "Wakati wa kuandika! Herufi hujengwa kwa mistari kwa mpangilio maalum (kushoto kwenda kulia, juu kwenda chini). Zingatia idadi ya mistari: programu inaikagua. Herufi za Jadi (Taiwan, Hong Kong, Macau) zimebaki na maumbo ya zamani, kamili zaidi.",
+   "items": [
+    {
+     "t": "一",
+     "r": "yī",
+     "m": "one",
+     "ms": "moja",
+     "s": 0,
+     "w": "一",
+     "k": 1
+    },
+    {
+     "t": "二",
+     "r": "èr",
+     "m": "two",
+     "ms": "mbili",
+     "s": 0,
+     "w": "二",
+     "k": 2
+    },
+    {
+     "t": "三",
+     "r": "sān",
+     "m": "three",
+     "ms": "tatu",
+     "s": 0,
+     "w": "三",
+     "k": 3
+    },
+    {
+     "t": "人",
+     "r": "rén",
+     "m": "person",
+     "ms": "mtu",
+     "s": 0,
+     "w": "人",
+     "k": 2
+    },
+    {
+     "t": "大",
+     "r": "dà",
+     "m": "big",
+     "ms": "kubwa",
+     "s": 0,
+     "w": "大",
+     "k": 3
+    },
+    {
+     "t": "小",
+     "r": "xiǎo",
+     "m": "small",
+     "ms": "ndogo",
+     "s": 0,
+     "w": "小",
+     "k": 3
+    },
+    {
+     "t": "水",
+     "r": "shuǐ",
+     "m": "water",
+     "ms": "maji",
+     "s": 0,
+     "w": "水",
+     "k": 4
+    },
+    {
+     "t": "火",
+     "r": "huǒ",
+     "m": "fire",
+     "ms": "moto",
+     "s": 0,
+     "w": "火",
+     "k": 4
+    },
+    {
+     "t": "山",
+     "r": "shān",
+     "m": "mountain",
+     "ms": "mlima",
+     "s": 0,
+     "w": "山",
+     "k": 3
+    },
+    {
+     "t": "口",
+     "r": "kǒu",
+     "m": "mouth",
+     "ms": "mdomo",
+     "s": 0,
+     "w": "口",
+     "k": 3
+    },
+    {
+     "t": "日",
+     "r": "rì",
+     "m": "sun / day",
+     "ms": "jua / siku",
+     "s": 0,
+     "w": "日",
+     "k": 4
+    },
+    {
+     "t": "月",
+     "r": "yuè",
+     "m": "moon / month",
+     "ms": "mwezi",
+     "s": 0,
+     "w": "月",
+     "k": 4
+    },
+    {
+     "t": "火山",
+     "r": "huǒshān",
+     "m": "volcano",
+     "ms": "volkeno",
+     "w": "火山"
+    },
+    {
+     "t": "大人",
+     "r": "dàrén",
+     "m": "adult",
+     "ms": "mtu mzima",
+     "w": "大人"
+    },
+    {
+     "t": "山水",
+     "r": "shānshuǐ",
+     "m": "landscape",
+     "ms": "mandhari",
+     "w": "山水"
+    },
+    {
+     "t": "人口",
+     "r": "rénkǒu",
+     "m": "population",
+     "ms": "idadi ya watu",
+     "w": "人口"
+    }
+   ],
+   "drills": [
+    {
+     "q": "Herufi 三 ina mistari mingapi?",
+     "o": [
+      "3",
+      "2",
+      "4",
+      "5"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "水 inamaanisha...?",
+     "o": [
+      "maji",
+      "moto",
+      "mlima",
+      "mwezi"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Herufi ipi ina mistari 2?",
+     "o": [
+      "人",
+      "大",
+      "小",
+      "水"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Herufi za Jadi zinatumika wapi?",
+     "o": [
+      "Taiwan",
+      "China bara",
+      "Hakuna",
+      "Vitabuni tu"
+     ],
+     "a": 0,
+     "e": ""
+    }
+   ]
+  }
+ ],
+ "stories": [
+  {
+   "id": "zh_s1",
+   "title": "Siku ya Xiaoming",
+   "emoji": "☀️",
+   "lines": [
+    {
+     "t": "你好！我是小明。",
+     "r": "nǐ hǎo! wǒ shì Xiǎomíng",
+     "m": "Hello! I am Xiaoming.",
+     "ms": "Habari! Mimi ni Xiaoming."
+    },
+    {
+     "t": "我是学生。",
+     "r": "wǒ shì xuésheng",
+     "m": "I am a student.",
+     "ms": "Mimi ni mwanafunzi.",
+     "alt": [
+      "我是學生"
+     ]
+    },
+    {
+     "t": "我吃了苹果。",
+     "r": "wǒ chī le píngguǒ",
+     "m": "I ate an apple.",
+     "ms": "Nilikula tufaha.",
+     "alt": [
+      "我吃了蘋果"
+     ]
+    },
+    {
+     "t": "我去过日本。",
+     "r": "wǒ qù guo Rìběn",
+     "m": "I have been to Japan.",
+     "ms": "Nimewahi kwenda Japani.",
+     "alt": [
+      "我去過日本"
+     ]
+    },
+    {
+     "t": "我正在吃饭。",
+     "r": "wǒ zhèngzài chīfàn",
+     "m": "I am eating a meal right now.",
+     "ms": "Ninakula chakula sasa hivi.",
+     "alt": [
+      "我正在吃飯"
+     ]
+    },
+    {
+     "t": "再见！",
+     "r": "zàijiàn",
+     "m": "Goodbye!",
+     "ms": "Kwaheri!",
+     "alt": [
+      "再見"
+     ]
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Xiaoming alikula nini (kimekwisha)?",
+     "o": [
+      "Tufaha",
+      "Wali",
+      "Maji",
+      "Mkate"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Je, amewahi kwenda Japani?",
+     "o": [
+      "Ndiyo",
+      "Hapana",
+      "Anapanga tu",
+      "Haijulikani"
+     ],
+     "a": 0,
+     "e": ""
+    },
+    {
+     "q": "Anafanya nini sasa?",
+     "o": [
+      "Anakula chakula",
+      "Analala",
+      "Anasoma",
+      "Anakimbia"
+     ],
+     "a": 0,
+     "e": ""
+    }
+   ]
+  }
+ ],
+ "songs": [
+  {
+   "id": "zh_g1",
+   "title": "Wimbo wa Hanzi",
+   "emoji": "🎵",
+   "lines": [
+    {
+     "t": "一二三，人大小",
+     "r": "yī èr sān, rén dà xiǎo",
+     "m": "One two three, person, big, small",
+     "ms": "Moja mbili tatu, mtu, kubwa, ndogo"
+    },
+    {
+     "t": "水和火，山和口",
+     "r": "shuǐ hé huǒ, shān hé kǒu",
+     "m": "Water and fire, mountain and mouth",
+     "ms": "Maji na moto, mlima na mdomo"
+    },
+    {
+     "t": "日和月，一起走",
+     "r": "rì hé yuè, yìqǐ zǒu",
+     "m": "Sun and moon, walk together",
+     "ms": "Jua na mwezi, tembeeni pamoja"
+    },
+    {
+     "t": "你好再见，我们唱歌",
+     "r": "nǐ hǎo zàijiàn, wǒmen chànggē",
+     "m": "Hello, goodbye, we sing!",
+     "ms": "Habari, kwaheri, tunaimba!",
+     "alt": [
+      "你好再見，我們唱歌"
+     ]
+    }
+   ]
+  }
+ ]
+}
